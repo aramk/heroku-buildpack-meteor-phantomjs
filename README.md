@@ -1,9 +1,11 @@
 # Heroku buildpack for meteor
 
+Extension of https://github.com/jordansissel/heroku-buildpack-meteor.git.
+
 ## Usage
 
 ```
-% heroku create --buildpack https://github.com/jordansissel/heroku-buildpack-meteor.git
+% heroku create --buildpack https://github.com/aramk/heroku-buildpack-meteor-phantomjs.git
 ```
 
 ## Example
